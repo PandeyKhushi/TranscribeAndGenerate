@@ -25,6 +25,7 @@ This project requires [FFmpeg](https://ffmpeg.org/download.html) to process audi
 ```bash
 python -m venv venv
 venv\Scripts\activate
+
 ## Installation
 - On Windows: Download FFmpeg from the [official site](https://ffmpeg.org/download.html) and add it to your system's PATH.
 - On Linux/Mac: Use your package manager:
