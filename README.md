@@ -18,4 +18,7 @@ This project combines advanced AI technologies to create a system for speech tra
 - Mobile App Integration: The system can be adapted into a mobile app, making it more portable and accessible for everyday use.
 
 - Real-time Translation: Integrate real-time language translation, enabling users to transcribe and translate speech simultaneously.
+  # Output Screenshots
+  ![Screenshot Description](![Screenshot (48)](https://github.com/user-attachments/assets/2e1f3c5d-b1eb-4084-a756-63c44b2b96c6))
+  
 
