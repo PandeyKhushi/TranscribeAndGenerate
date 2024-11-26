@@ -27,7 +27,8 @@ This project requires [FFmpeg](https://ffmpeg.org/download.html) to process audi
   ```bash
   sudo apt install ffmpeg    # For Ubuntu/Debian
   brew install ffmpeg        # For macOS
-  # Output Screenshots
+
+   ### Output Screenshots
   Gradio Interface ![Screenshot (48)](https://github.com/user-attachments/assets/2e1f3c5d-b1eb-4084-a756-63c44b2b96c6)
   
 
