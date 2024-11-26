@@ -21,10 +21,9 @@ This project combines advanced AI technologies to create a system for speech tra
  ## Dependencies
  ### FFmpeg
 This project requires [FFmpeg](https://ffmpeg.org/download.html) to process audio files. 
-### Create a virtual environment
-```bash
-python -m venv venv
-venv\Scripts\activate
+
+
+
 
 ## Installation
 - On Windows: Download FFmpeg from the [official site](https://ffmpeg.org/download.html) and add it to your system's PATH.
@@ -32,10 +31,11 @@ venv\Scripts\activate
   ```bash
   sudo apt install ffmpeg    # For Ubuntu/Debian
   brew install ffmpeg        # For macOS
+  
+  pip install transformers gradio huggingface_hub gtts google-generativeai requests    # Install the required libraries
 
-### Install the required libraries:
-```bash
-pip install transformers gradio huggingface_hub gtts google-generativeai requests
+ python -m venv venv        # Create a virtual environment
+ venv\Scripts\activate
 
 
  ## Output Screenshots
