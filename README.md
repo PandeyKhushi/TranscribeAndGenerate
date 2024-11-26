@@ -18,6 +18,15 @@ This project combines advanced AI technologies to create a system for speech tra
 - Mobile App Integration: The system can be adapted into a mobile app, making it more portable and accessible for everyday use.
 
 - Real-time Translation: Integrate real-time language translation, enabling users to transcribe and translate speech simultaneously.
+ ## Dependencies
+This project requires [FFmpeg](https://ffmpeg.org/download.html) to process audio files. 
+
+### Installation
+- On Windows: Download FFmpeg from the [official site](https://ffmpeg.org/download.html) and add it to your system's PATH.
+- On Linux/Mac: Use your package manager:
+  ```bash
+  sudo apt install ffmpeg    # For Ubuntu/Debian
+  brew install ffmpeg        # For macOS
   # Output Screenshots
   Gradio Interface ![Screenshot (48)](https://github.com/user-attachments/assets/2e1f3c5d-b1eb-4084-a756-63c44b2b96c6)
   
