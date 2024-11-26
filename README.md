@@ -19,6 +19,6 @@ This project combines advanced AI technologies to create a system for speech tra
 
 - Real-time Translation: Integrate real-time language translation, enabling users to transcribe and translate speech simultaneously.
   # Output Screenshots
-  ![Gradio Interface ]![Screenshot (48)](https://github.com/user-attachments/assets/2e1f3c5d-b1eb-4084-a756-63c44b2b96c6)
+  Gradio Interface ![Screenshot (48)](https://github.com/user-attachments/assets/2e1f3c5d-b1eb-4084-a756-63c44b2b96c6)
   
 
