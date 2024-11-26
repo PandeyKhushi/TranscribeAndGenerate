@@ -29,6 +29,8 @@ This project requires [FFmpeg](https://ffmpeg.org/download.html) to process audi
   brew install ffmpeg        # For macOS
 
    ### Output Screenshots
-  Gradio Interface ![Screenshot (48)](https://github.com/user-attachments/assets/2e1f3c5d-b1eb-4084-a756-63c44b2b96c6)
+   
+![Transcription Example](![Screenshot (49)](https://github.com/user-attachments/assets/9e1c75bc-15c4-42d6-938e-43955313871a)
+)
   
 
