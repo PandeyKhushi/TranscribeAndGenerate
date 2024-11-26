@@ -22,6 +22,7 @@ This project combines advanced AI technologies to create a system for speech tra
  ### FFmpeg
 This project requires [FFmpeg](https://ffmpeg.org/download.html) to process audio files. 
 ### Create a virtual environment
+```bash
 python -m venv venv
 venv\Scripts\activate
 ## Installation
@@ -32,6 +33,7 @@ venv\Scripts\activate
   brew install ffmpeg        # For macOS
 
 ### Install the required libraries:
+```bash
 pip install transformers gradio huggingface_hub gtts google-generativeai requests
 
 
