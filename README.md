@@ -8,7 +8,7 @@ This project combines advanced AI technologies to create a system for speech tra
 - Google Generative AI: After transcription, this model processes the text to generate further content based on a specified prompt. It includes configuration for creativity and safety filters to ensure that inappropriate content is blocked.
 
 - Async Functions: The system uses asynchronous programming (via asyncio) to handle tasks efficiently, ensuring that transcription and text generation occur without delays.
-# Future Scope 
+## Future Scope 
 - Multilingual Support: The system can be expanded to support multiple languages, allowing for a wider range of transcription and content generation capabilities.
 
 - Text-to-Speech (TTS) Integration: Once the text is generated, it could be converted back into speech using tools like gTTS, making the solution accessible for those with visual impairments.
@@ -19,16 +19,23 @@ This project combines advanced AI technologies to create a system for speech tra
 
 - Real-time Translation: Integrate real-time language translation, enabling users to transcribe and translate speech simultaneously.
  ## Dependencies
+ ### FFmpeg
 This project requires [FFmpeg](https://ffmpeg.org/download.html) to process audio files. 
-
-### Installation
+### Create a virtual environment
+python -m venv venv
+venv\Scripts\activate
+## Installation
 - On Windows: Download FFmpeg from the [official site](https://ffmpeg.org/download.html) and add it to your system's PATH.
 - On Linux/Mac: Use your package manager:
   ```bash
   sudo apt install ffmpeg    # For Ubuntu/Debian
   brew install ffmpeg        # For macOS
 
-   ### Output Screenshots
+### Install the required libraries:
+pip install transformers gradio huggingface_hub gtts google-generativeai requests
+
+
+ ## Output Screenshots
    
 Output![Screenshot (49)](https://github.com/user-attachments/assets/9e1c75bc-15c4-42d6-938e-43955313871a)
 
