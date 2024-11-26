@@ -33,14 +33,13 @@ This project requires [FFmpeg](https://ffmpeg.org/download.html) to process audi
   brew install ffmpeg        # For macOS
   
   pip install transformers gradio huggingface_hub gtts google-generativeai requests    # Install the required libraries
-
- python -m venv venv        # Create a virtual environment
- venv\Scripts\activate
+  python -m venv venv        # Create a virtual environment
+  venv\Scripts\activate
 
 
  ## Output Screenshots
    
-Output![Screenshot (49)](https://github.com/user-attachments/assets/9e1c75bc-15c4-42d6-938e-43955313871a)
+![Screenshot (49)](https://github.com/user-attachments/assets/9e1c75bc-15c4-42d6-938e-43955313871a)
 
   
 
