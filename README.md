@@ -30,7 +30,7 @@ This project requires [FFmpeg](https://ffmpeg.org/download.html) to process audi
 
    ### Output Screenshots
    
-![Transcription Example](![Screenshot (49)](https://github.com/user-attachments/assets/9e1c75bc-15c4-42d6-938e-43955313871a)
+Output(![Screenshot (49)](https://github.com/user-attachments/assets/9e1c75bc-15c4-42d6-938e-43955313871a)
 )
   
 
